@@ -26,3 +26,7 @@ Additionally, we'll learn how to change the permissions of a directory using the
 Summary
 
 In summary, this project will provide a comprehensive understanding of how to manage file permissions in Linux, covering various scenarios such as modifying permissions for files, including hidden files, and directories.
+
+To Access my files, click the link below:
+
+https://drive.google.com/drive/folders/1PHFIJ2-q_Ryhg_Q89gz2WaiNRft8EDID?usp=drive_link
